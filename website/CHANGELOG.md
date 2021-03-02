@@ -1,5 +1,18 @@
 # Change Log
 
+## 1.1.6
+
+### Patch Changes
+
+- [`79ff8e84e`](https://github.com/chakra-ui/chakra-ui/commit/79ff8e84e4a8f70d3abe969d68d8bfbb63c18471)
+  [#3427](https://github.com/chakra-ui/chakra-ui/pull/3427) Thanks
+  [@TheAsda](https://github.com/TheAsda)! - - Add drawer example to modal readme
+  - Fix github references in drawer and alert-dialog docs
+- Updated dependencies
+  [[`92adc0dc1`](https://github.com/chakra-ui/chakra-ui/commit/92adc0dc10e609d14439b95ed304a2731247d084)]:
+  - @chakra-ui/react@1.3.4
+  - @chakra-ui/props-docs@1.0.18
+
 ## 1.1.5
 
 ### Patch Changes

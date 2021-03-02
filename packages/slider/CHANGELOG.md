@@ -1,5 +1,18 @@
 # Change Log
 
+## 1.1.2
+
+### Patch Changes
+
+- [`0e93767f1`](https://github.com/chakra-ui/chakra-ui/commit/0e93767f1dfca00e5843d7ffab5eb3f038cec7fe)
+  [#2895](https://github.com/chakra-ui/chakra-ui/pull/2895) Thanks
+  [@with-heart](https://github.com/with-heart)! - fix(slider): call onChangeEnd
+  even if value doesn't change
+
+- Updated dependencies
+  [[`83ae62905`](https://github.com/chakra-ui/chakra-ui/commit/83ae62905935fdb3104380d6fd845159b00095fa)]:
+  - @chakra-ui/hooks@1.1.5
+
 ## 1.1.1
 
 ### Patch Changes

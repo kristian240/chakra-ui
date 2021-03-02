@@ -1,5 +1,20 @@
 # Change Log
 
+## 1.4.0
+
+### Minor Changes
+
+- [`1f4d0aa4e`](https://github.com/chakra-ui/chakra-ui/commit/1f4d0aa4eff7ba3caffb0599eb81edfb223a36cc)
+  [#3462](https://github.com/chakra-ui/chakra-ui/pull/3462) Thanks
+  [@joe-bell](https://github.com/joe-bell)! - ### `chakra`
+
+  Adds support for `main` in chakra factory
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @chakra-ui/color-mode@1.1.1
+
 ## 1.3.1
 
 ### Patch Changes

@@ -1,5 +1,53 @@
 # Change Log
 
+## 1.3.4
+
+### Patch Changes
+
+- [`92adc0dc1`](https://github.com/chakra-ui/chakra-ui/commit/92adc0dc10e609d14439b95ed304a2731247d084)
+  [#3438](https://github.com/chakra-ui/chakra-ui/pull/3438) Thanks
+  [@TimKolberger](https://github.com/TimKolberger)! - Fixed an issue where
+  extending the theme with custom breakpoints with `strictNullChecks: false` in
+  `tsconfig.json` lead to an error.
+- Updated dependencies
+  [[`79ff8e84e`](https://github.com/chakra-ui/chakra-ui/commit/79ff8e84e4a8f70d3abe969d68d8bfbb63c18471),
+  [`7efc9c217`](https://github.com/chakra-ui/chakra-ui/commit/7efc9c217789b2b314ed629c94b947256e8cbe2c),
+  [`83ae62905`](https://github.com/chakra-ui/chakra-ui/commit/83ae62905935fdb3104380d6fd845159b00095fa),
+  [`e1924c621`](https://github.com/chakra-ui/chakra-ui/commit/e1924c62182969a109b4900b05932caa1b73ed99),
+  [`280d0dbfd`](https://github.com/chakra-ui/chakra-ui/commit/280d0dbfdd8894ab4aa228ac7ef816008a5d0824),
+  [`0e93767f1`](https://github.com/chakra-ui/chakra-ui/commit/0e93767f1dfca00e5843d7ffab5eb3f038cec7fe),
+  [`f032942c8`](https://github.com/chakra-ui/chakra-ui/commit/f032942c8a2568a3a23baee0d5972834345e5fa6),
+  [`39375c15b`](https://github.com/chakra-ui/chakra-ui/commit/39375c15b64635ea3f59d9f5ad1f31851f9f018b),
+  [`1f4d0aa4e`](https://github.com/chakra-ui/chakra-ui/commit/1f4d0aa4eff7ba3caffb0599eb81edfb223a36cc)]:
+  - @chakra-ui/modal@1.6.1
+  - @chakra-ui/theme@1.7.0
+  - @chakra-ui/hooks@1.1.5
+  - @chakra-ui/popper@1.1.5
+  - @chakra-ui/slider@1.1.2
+  - @chakra-ui/tabs@1.2.0
+  - @chakra-ui/select@1.1.2
+  - @chakra-ui/system@1.4.0
+  - @chakra-ui/toast@1.1.12
+  - @chakra-ui/accordion@1.1.3
+  - @chakra-ui/checkbox@1.2.4
+  - @chakra-ui/counter@1.0.8
+  - @chakra-ui/editable@1.1.2
+  - @chakra-ui/form-control@1.2.2
+  - @chakra-ui/image@1.0.8
+  - @chakra-ui/menu@1.1.3
+  - @chakra-ui/number-input@1.1.2
+  - @chakra-ui/pin-input@1.4.1
+  - @chakra-ui/popover@1.2.3
+  - @chakra-ui/portal@1.1.2
+  - @chakra-ui/radio@1.2.4
+  - @chakra-ui/skeleton@1.1.4
+  - @chakra-ui/tooltip@1.1.3
+  - @chakra-ui/transition@1.0.9
+  - @chakra-ui/avatar@1.1.3
+  - @chakra-ui/input@1.1.3
+  - @chakra-ui/switch@1.1.4
+  - @chakra-ui/textarea@1.1.2
+
 ## 1.3.3
 
 ### Patch Changes
