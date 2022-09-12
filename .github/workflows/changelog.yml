@@ -28,7 +28,7 @@ jobs:
           ref: main
 
       - name: Enable node
-        uses: actions/setup-node@master
+        uses: actions/setup-node@v3
         with:
           node-version: 14.x
 
