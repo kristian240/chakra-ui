@@ -23,7 +23,7 @@ jobs:
         run: echo "::set-output name=dir::$(yarn cache dir)"
 
       - name: Checkout
-        uses: actions/checkout@master
+        uses: actions/checkout@v3
         with:
           ref: main
 
